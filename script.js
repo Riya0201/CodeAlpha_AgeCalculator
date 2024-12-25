@@ -1,6 +1,6 @@
 flatpickr("#dob", {
-  dateFormat: "Y-m-d", // Date format (year-month-day)
-  maxDate: "today"    // Maximum selectable date is today
+  dateFormat: "Y-m-d", 
+  maxDate: "today" 
 });
 
 function calculateAge() {
